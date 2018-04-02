@@ -4,7 +4,7 @@
 - Show average net salary
 - Show gross salary
 - Search jobs by name, zone, gender and experience.
-- User may create an account, so he can share his details and access to other features.
+- User may create an account, so he can share his details and access to other personalized features.
 
 <h2>Non-Functional Requirements</h2>
 - MVC
