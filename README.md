@@ -2,6 +2,7 @@
 
 <h2>Functional Requirements</h2>
 - Show average net salary <br>
+- Show what is being discounted - Taxes, Benefits, etc <br>
 - Show gross salary <br>
 - Search jobs by name, zone, gender and experience. <br>
 - User may create an account, so he can share his details and access to other personalized features.<br>
