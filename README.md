@@ -1,5 +1,9 @@
 # love-money-docs
 
+<h2>Public Presentation</h2>
+<p>https://bit.ly/2GvyKHI</p>
+<hr>
+
 <h2>Functional Requirements</h2>
 - Show average net salary <br>
 - Show what is being discounted - Taxes, Benefits, etc <br>
