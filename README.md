@@ -1,4 +1,4 @@
-# love-money-docs
+# Love Money Documentation
 
 <h1>Public Presentation</h1>
 <p>https://bit.ly/2GvyKHI</p>
