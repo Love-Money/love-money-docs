@@ -4,14 +4,15 @@
 <p>https://bit.ly/2GvyKHI</p>
 <hr>
 
-<h2>Functional Requirements</h2>
+<h1>Requirements</h1>
+<h3>Functional Requirements</h3>
 - Show average net salary <br>
 - Show what is being discounted - Taxes, Benefits, etc <br>
 - Show gross salary <br>
 - Search jobs by name, zone, gender and experience. <br>
 - User may create an account, so he can share his details and access to other personalized features.<br>
 
-<h2>Non-Functional Requirements</h2>
+<h3>Non-Functional Requirements</h3>
 - MVC<br>
 - Multi-platform (Android + Web)<br>
 - Usability<br>
