@@ -6,14 +6,15 @@
 
 <h1>Requirements</h1>
 <h3>Functional Requirements</h3>
-- Show average net salary <br>
-- Show what is being discounted - Taxes, Benefits, etc <br>
-- Show gross salary <br>
-- Search jobs by name, zone, gender and experience. <br>
+- Show average net salary.<br>
+- Show what is being discounted - Taxes, Benefits, etc.<br>
+- Show gross salary.<br>
+- Search jobs by name, zone, gender and experience.<br>
 - User may create an account, so he can share his details and access to other personalized features.<br>
-- Companies may create an account in order to share information about the company.<br>
+- Companies may create an account in order to share information (details about the company, offered benefits and its prices, salaries for each job role) about the company.<br>
 - There has to be a way to check if the accounts created are real, with CPF.<br>
-- Companies are able to share applications.<br>
+- Companies are able to share applications with its name and details.<br>
+- Also, Users can apply for these opened jobs.<br>
 
 <h3>Non-Functional Requirements</h3>
 - MVC<br>
