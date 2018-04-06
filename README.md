@@ -11,6 +11,9 @@
 - Show gross salary <br>
 - Search jobs by name, zone, gender and experience. <br>
 - User may create an account, so he can share his details and access to other personalized features.<br>
+- Companies may create an account in order to share information about the company.<br>
+- There has to be a way to check if the accounts created are real, with CPF.<br>
+- Companies are able to share applications.<br>
 
 <h3>Non-Functional Requirements</h3>
 - MVC<br>
