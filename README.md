@@ -10,7 +10,7 @@
 - Show what is being discounted - Taxes, Benefits, etc.<br>
 - Show gross salary.<br>
 - Search jobs by name, (job) area, zone, gender and experience.<br>
-- User may create an account, so he can share his details (name, job role, company, gender, experience, area, local) and access to other personalized features.<br>
+- User may create an account, so he can share his details (name, job role, company, gender, experience, (job) area, localization) and access to other personalized features.<br>
 - User personalized features: Job applications.<br> 
 - Companies may create an account in order to share information (details about the company, offered benefits and its prices, salaries for each job role) about the company.<br>
 - There has to be a way to check if the accounts created are real, with CPF.<br>
