@@ -6,7 +6,7 @@
 
 <h1>Requirements</h1>
 <h3>Functional Requirements</h3>
-- Users are able to access average net salary, what's being discounted* (taxes, benefits, etc) and gross salary*.<br>
+- Users are able to access average net salary, what's being discounted* (taxes and benefits) and gross salary*.<br>
 - Users are able to search jobs by name, job role (developer, engineering, etc), localization, gender and experience.<br>
 - User are able create an account, so he can share his details (name, job role, company, gender, experience and localization) and access to personalized job offers, what's going to be discounted from the net salary and the gross salary itself.<br> 
 - Companies may create an account in order to share information concerning the company (details about the company, offered benefits and its prices, salaries for each job role).<br>
