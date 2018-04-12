@@ -6,11 +6,13 @@
 
 <h1>Requisitos</h1>
 <h3>Requisitos Funcionais</h3>
-- Exibir média salarial líquida<br>
-- Mostrar o que está sendo descontado - Impostos, Benefícios, etc.<br>
-- Exibir média salarial bruta<br>
-- Procurar emprego pelo nome, região, genêro, experiência<br>
-- Usuário pode criar uma conta, afim de compartilhar os detalhes dele e acessar outras ferramentas personalizadas.<br>
+- Usuários podem ver média salarial líquida, o que e quanto está sendo descontado (impostos e benefícios)* e salário bruto*.<br>
+- Usuários podem procurar emprego pelo nome, área (de trabalho; - desenvolvedor de software, engenheiro, etc), localização, gênero, experiência (em anos).<br>
+- Usuário pode criar uma conta, afim de compartilhar os detalhes dele (nome, área em que trabalha, empresa, gênero, experiência em anos e localização) e acessar outras ferramentas personalizadas como ofertas de trabalho, descontos do salário líquido e salário bruto em si.<br>
+- Empresas podem criar uma conta, afim de compartilhar detalhes da companhia (valores, etc.), benefícios e os preços de cada um deles por empregado, salários para cada cargo e área.
+- Empresas podem publicar suas ofertas de emprego, contendo nome, cargo, setor, salário, benefícios (e preço descontado no holerite por cada um), requisitos e função.<br>
+- Usuários podem aplicar para essas vagas (ofertas)<br>
+- Deve haver uma forma de checar se as contas são reais (por CPF, talvez)<br>
 
 <h3>Requisitos Não Funcionais</h3>
 - MVC<br>
